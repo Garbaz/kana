@@ -75,6 +75,7 @@ void setup() {
   previous_index = index;
 
   fill(0);
+  //textFont(createFont("mplus-1p-regular.ttf",12));
 }
 
 void draw() {
