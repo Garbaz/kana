@@ -1,6 +1,6 @@
 # Kana
 
-Similar to tools like [Real Kana](https://realkana.com/), but keeps track of which kana the user gets wrong and/or take a long time to think of the reading.
+Similar to tools like [Real Kana](https://realkana.com/), but keeps track of which kana the user gets wrong and/or take a long time to think of the reading, and preferably shows these.
 
 Written in [Processing](https://processing.org/).
 
